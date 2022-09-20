@@ -1,4 +1,4 @@
-package exercicios;
+package java.Java1Semestre;
 import java.util.Scanner;
 public class exe3 {
 

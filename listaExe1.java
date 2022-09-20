@@ -1,4 +1,4 @@
-package lista1;
+package java.Java1Semestre;
 import java.util.Scanner;
 public class listaExe1 {
 

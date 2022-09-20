@@ -1,5 +1,4 @@
-package exercicios;
-	
+package java.Java1Semestre;
 import java.util.Scanner;
 
 class QuestoesSimples {
